@@ -1,10 +1,8 @@
-![image alt](https://github.com/Pierresanchz/aws/issues/1#issue-2461592547)
-
 ## CRUD CON AWS
 
-Crear un CRUD (Create, Read, Update, Delete) en AWS permite aprovechar varios servicios de la plataforma para construir una aplicación completa con funcionalidades de gestión de datos.
+Crear un CRUD Create, Read, Update, Delete en AWS permite aprovechar varios servicios de la plataforma para construir una aplicación completa con funcionalidades de gestión de datos.
 
-** Configurar una instancia de RDS:**
+**Configurar una instancia de RDS:**
 - Selecciona MySQL como motor de base de datos.
 - Ajusta la capacidad de la instancia de acuerdo con los requisitos de tu aplicación.
 - Especifica un nombre para la base de datos, junto con un usuario y una contraseña.
@@ -19,7 +17,7 @@ Crear un CRUD (Create, Read, Update, Delete) en AWS permite aprovechar varios se
 - Update: Implementa la lógica para modificar registros existentes.
 - Delete: Implementa la lógica para eliminar registros.
 
-** Configurar API Gateway:**
+**Configurar API Gateway:**
 - Define los endpoints para cada operación CRUD (POST, GET, PUT, DELETE).
 - Asocia cada endpoint con su respectiva función Lambda.
 - Configura CORS si planeas consumir la API desde un frontend.
