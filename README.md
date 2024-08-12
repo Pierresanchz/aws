@@ -1,3 +1,5 @@
+![image alt](https://github.com/Pierresanchz/aws/issues/1#issue-2461592547)
+
 ## CRUD CON AWS
 
 Crear un CRUD (Create, Read, Update, Delete) en AWS permite aprovechar varios servicios de la plataforma para construir una aplicación completa con funcionalidades de gestión de datos.
